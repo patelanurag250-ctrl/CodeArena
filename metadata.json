@@ -1,0 +1,6 @@
+{
+  "name": "CodeArena",
+  "description": "AI-Powered Competitive Programming and Coding Practice Platform with Monaco Editor, Real-Time Code Execution, Contests, and Intelligent Gemini Mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
