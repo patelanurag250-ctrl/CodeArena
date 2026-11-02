@@ -2,19 +2,7 @@
 
 CodeArena is a modern, high-performance competitive programming and coding practice platform where developers solve algorithmic problems, write and execute code in Monaco Editor, compete in contests, track streaks, and receive intelligent mentorship from Gemini AI.
 
----
 
-## 📸 Screenshots & Interface Previews
-
-### 1. Monaco Coding Workspace & Gemini AI Mentor
-![CodeArena Coding Workspace](docs/screenshots/workspace.jpg)
-*Real-time code editor with syntax highlighting, language selector (C++, Python, Java, JS), split problem description, test runner, and interactive Gemini 3.8 Flash AI mentorship.*
-
-### 2. Interactive Analytics Dashboard & Coding Heatmap
-![CodeArena Dashboard](docs/screenshots/dashboard.jpg)
-*Comprehensive developer analytics with 70-day activity heatmap, weekly submissions chart, problem difficulty distribution, daily challenge card, and recommended DSA paths.*
-
----
 
 ## 1. Technology Stack
 
